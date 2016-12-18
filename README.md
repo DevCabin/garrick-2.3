@@ -1,18 +1,22 @@
 *Garrick is fast.*
 
-One of the fastest free responsive WordPress themes available (if not THE fastest). Garrick by GrowthHit.com includes a suite of conversion oriented bonus features such as:
+One of the fastest free responsive WordPress themes available (if not THE fastest). 
+<br>
+Garrick by <a href="https://growthit.com/">GrowthHit.com</a> includes a suite of conversion oriented bonus features such as:
 
-Conversion oriented landing page
-Lightweight and ultra customizable business template
-Lightning fast load times
-Fully responsive for mobile devices
-AND Our custom opt in pop up (by itself worth over $50!)
+<ul>
+	<li>Clean Landing page with <a href="https://growthhit.com/glossary/cta/">CTA</a></li>
+<li>Lightweight and ultra customizable business template</li>
+<li>Lightning fast load times</li>
+<li>Fully responsive for mobile devices</li>
+<li>AND Our custom opt in pop up (by itself worth over $50!)</li>
+</ul>
 
 Read all about it here: https://growthhit.com/garrick-the-fastest-free-responsive-wordpress-theme
-
+<br>
 Demo the theme here: https://garrick.growthhit.com
-
-Special thanks and credit to:
-<a href="https://startbootstrap.com/template-overviews/clean-blog/">StartBootstrap</a>
-<a id="attribution" href="http://www.mrova.com">mRova</a>
+<br>
+Special thanks and credit to:<br>
+<a href="https://startbootstrap.com/template-overviews/clean-blog/">StartBootstrap</a><br>
+<a id="attribution" href="http://www.mrova.com">mRova</a><br>
 <a href="https://www.flickr.com/photos/jdhancock/">jdhancock</a>
