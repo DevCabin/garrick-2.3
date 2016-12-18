@@ -12,7 +12,6 @@ Read all about it here: https://growthhit.com/garrick-the-fastest-free-responsiv
 
 Demo the theme here: https://garrick.growthhit.com
 
-
 Special thanks and credit to:
 <a href="https://startbootstrap.com/template-overviews/clean-blog/">StartBootstrap</a>
 <a id="attribution" href="http://www.mrova.com">mRova</a>
