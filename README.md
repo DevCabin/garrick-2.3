@@ -1,54 +1,19 @@
-*Garrick is faster than your mom.*
+*Garrick is fast.*
 
-To do list:
+One of the fastest free responsive WordPress themes available (if not THE fastest). Garrick by GrowthHit.com includes a suite of conversion oriented bonus features such as:
 
-http://tgmpluginactivation.com/installation/
+Conversion oriented landing page
+Lightweight and ultra customizable business template
+Lightning fast load times
+Fully responsive for mobile devices
+AND Our custom opt in pop up (by itself worth over $50!)
 
-http://luis-almeida.github.io/unveil/
-https://codepen.io/parkerbennett/pen/Cmfvk
-RATHER not include jQuery ...
+Read all about it here: https://growthhit.com/garrick-the-fastest-free-responsive-wordpress-theme
 
-Some options:
-https://css-tricks.com/case-study-boosting-front-end-performance/
-http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
-https://varvy.com/pagespeed/defer-images.html  **epic**
-https://robinosborne.co.uk/2016/05/16/lazy-loading-images-dont-rely-on-javascript/
-https://www.giftofspeed.com/lazy-load-images/
-- http://dinbror.dk/blog/blazy/
-- https://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/
+Demo the theme here: https://garrick.growthhit.com
 
 
-Sticky header:
-https://adactio.com/journal/10877
-http://stackoverflow.com/questions/18382496/sticky-header-after-scrolling-down
-https://github.com/cara-tm/simple-sticky-header
-https://css-tricks.com/scroll-fix-content/
-
-On performance:
-https://css-tricks.com/case-study-boosting-front-end-performance/
-- https://css-tricks.com/authoring-critical-fold-css/
-- https://github.com/filamentgroup/loadCSS
-
-
-
-Typography:
-
-http://fontpair.co/
-
-And we have a winner :
-https://startbootstrap.com/template-overviews/clean-blog/
-
-Plugins:
-http://wordpress.stackexchange.com/questions/160255/how-to-include-plugin-without-activation
-http://alexking.org/blog/2012/07/09/include-plugin-in-wordpress-theme
-
-
-https://wordpress.org/plugins/amp/
-
-
-===
-For pop up / exit intent
-
-http://beeker.io/exit-intent-popup-script-tutorial
-
-http://www.jacklmoore.com/colorbox/
+Special thanks and credit to:
+<a href="https://startbootstrap.com/template-overviews/clean-blog/">StartBootstrap</a>
+<a id="attribution" href="http://www.mrova.com">mRova</a>
+<a href="https://www.flickr.com/photos/jdhancock/">jdhancock</a>
