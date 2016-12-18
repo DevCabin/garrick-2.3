@@ -1,0 +1,36 @@
+/*
+Theme Name: Garrick
+Theme URI: http://garrick.growthhit.com/
+Author: GrowthHit.com
+Author URI: https://growthhit.com/garrick-the-fastest-free-responsive-wordpress-theme
+Description: The fastest free responsive WordPress theme. 'Garrick' is a reference to the secret identity of the DC comic book character 'The Flash'.
+Version: 2.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: garrick
+Tags: blog, two-columns, left-sidebar, right-sidebar, one-column, featured-images, sticky-post, threaded-comments, translation-ready
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Garrick is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+Flash pictures courtesy of https://www.flickr.com/photos/jdhancock/
+*/
+
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.screen-reader-text{} 
+.gallery-caption{}
+.bypostauthor{}
+.alignright{
+	float: right;
+}
+.alignleft{
+	float: left;
+}
+.aligncenter{
+	text-align: center;
+	float: none;
+	margin: 0 auto;
+}

@@ -1,0 +1,21 @@
+@import url("normalize.css");	
+@import url("grid.css");	
+@import url("buttons.css");	
+@import url("table.css");	
+@import url("style.css");	
+iframe {
+	max-width: 100%;
+}
+.hero__content a.btn {
+    border: 3px solid #fff;
+    padding:12px 22px;
+    background: transparent;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: none;
+}
+.hero__content a.btn:hover {
+    background: #fff;
+    color: #000;
+}
